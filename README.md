@@ -1,6 +1,6 @@
 # TicTacToeX
 # For Updated content, go to TicTacToe repository
-<[Update](https://github.com/ZacharyElledgeMCGhee/TicTacToe)
+<[Go to TicTacToe](https://github.com/ZacharyElledgeMCGhee/TicTacToe)
 <div align="center">
 
   </div>
